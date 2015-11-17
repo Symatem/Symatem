@@ -10,6 +10,3 @@
 [submodule "language-symatem"]
 	path = language-symatem
 	url = git://github.com/Symatem/language-symatem.git
-[submodule "symatem.github.io"]
-	path = symatem.github.io
-	url = git://github.com/Symatem/symatem.github.io.git
