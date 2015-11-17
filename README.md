@@ -1,12 +1,5 @@
 # Symatem
-Umbrella Repository for the entire SDK
+Umbrella Repository for the entire SDK.  
 
-[See Documentation](https://github.com/Symatem/Documentation)
-
-## Clone
-```
-git clone https://github.com/Symatem/Symatem
-cd Symatem
-git submodule init
-git submodule update
-```
+See [symatem.github.io](http://symatem.github.io)
+or the [Documentation](https://github.com/Symatem/Documentation).
