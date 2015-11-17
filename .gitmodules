@@ -1,0 +1,15 @@
+[submodule "VirtualMachine"]
+	path = VirtualMachine
+	url = git://github.com/Symatem/VirtualMachine.git 
+[submodule "StandardLibrary"]
+	path = StandardLibrary
+	url = git://github.com/Symatem/StandardLibrary.git
+[submodule "Documentation"]
+	path = Documentation
+	url = git://github.com/Symatem/Documentation.git
+[submodule "language-symatem"]
+	path = language-symatem
+	url = git://github.com/Symatem/language-symatem.git
+[submodule "symatem.github.io"]
+	path = symatem.github.io
+	url = git://github.com/Symatem/symatem.github.io.git
