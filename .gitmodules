@@ -1,6 +1,6 @@
-[submodule "VirtualMachine"]
-	path = VirtualMachine
-	url = git://github.com/Symatem/VirtualMachine.git 
+[submodule "CppCodeBase"]
+	path = CppCodeBase
+	url = git://github.com/Symatem/CppCodeBase.git
 [submodule "StandardLibrary"]
 	path = StandardLibrary
 	url = git://github.com/Symatem/StandardLibrary.git
