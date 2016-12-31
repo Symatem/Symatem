@@ -1,9 +1,6 @@
 [submodule "CppCodeBase"]
 	path = CppCodeBase
 	url = git://github.com/Symatem/CppCodeBase.git
-[submodule "StandardLibrary"]
-	path = StandardLibrary
-	url = git://github.com/Symatem/StandardLibrary.git
-[submodule "Documentation"]
-	path = Documentation
-	url = git://github.com/Symatem/Documentation.git
+[submodule "SymatemWasm"]
+	path = SymatemWasm
+	url = git://github.com/Symatem/SymatemWasm.git
