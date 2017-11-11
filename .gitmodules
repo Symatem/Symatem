@@ -1,6 +1,15 @@
-[submodule "CppCodeBase"]
-	path = CppCodeBase
-	url = git://github.com/Symatem/CppCodeBase.git
-[submodule "SymatemWasm"]
-	path = SymatemWasm
-	url = git://github.com/Symatem/SymatemWasm.git
+[submodule "RuntimeEnvironment"]
+	path = RuntimeEnvironment
+	url = https://github.com/Symatem/RuntimeEnvironment.git
+[submodule "SymatemJS"]
+	path = SymatemJS
+	url = https://github.com/Symatem/SymatemJS.git
+[submodule "WiredPanels"]
+	path = WiredPanels
+	url = https://github.com/Symatem/WiredPanels.git
+[submodule "UserInterface"]
+	path = UserInterface
+	url = https://github.com/Symatem/UserInterface.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/Symatem/Documentation.git
